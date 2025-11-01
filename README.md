@@ -39,8 +39,6 @@ You can deploy to Render, Railway, Fly.io, or any cloud that supports FastAPI.
 
 
 
-Built by **Anand Velchuri**
-
 Tech Stack used to build this app:
 
 **Backend**
@@ -67,3 +65,5 @@ Tech Stack used to build this app:
    - pip (Python package manager)
    - venv (Python virtual environments)
    - .gitignore (to exclude venv and other files)
+
+   Built by **Anand Velchuri**
